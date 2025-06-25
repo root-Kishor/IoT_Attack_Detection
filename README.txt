@@ -66,9 +66,8 @@ pip install -r requirements.txt
 ```
 
 ---
----
 
-## 📁 Download Dataset and Model in src folder 
+## 📁 Download Dataset and Model 
 
 > Large files were excluded from this GitHub repo due to file size limits. You can download them from the links below:
 
@@ -77,6 +76,9 @@ pip install -r requirements.txt
 
 ---
 
+enable virtualenv before running the files 
+
+---
 ## ▶️ Usage
 
 ### 1. Run the Detection Dashboard
