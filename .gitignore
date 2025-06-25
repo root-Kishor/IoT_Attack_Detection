@@ -1,0 +1,10 @@
+# Ignore large datasets and models
+data/*.csv
+models/*.pkl
+
+# Other common ignores
+__pycache__/
+*.pyc
+*.log
+.env
+.DS_Store
