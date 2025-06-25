@@ -66,6 +66,16 @@ pip install -r requirements.txt
 ```
 
 ---
+---
+
+## 📁 Download Dataset and Model in src folder 
+
+> Large files were excluded from this GitHub repo due to file size limits. You can download them from the links below:
+
+- [📥 rf_model.pkl (trained model)](https://drive.google.com/file/d/1OwvFEruBPQBH7dAjPE-ppuViILzu8TVa/view?usp=drive_link)
+- [📥 CICIDS2017 CSV files (attack dataset)](https://drive.google.com/drive/folders/1YUplygHCiXthLNB2EHfWxTV67m8k1NGG?usp=drive_link)
+
+---
 
 ## ▶️ Usage
 
